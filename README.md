@@ -15,7 +15,7 @@ These proof-of-principle prototypes not only demonstrate the efficient and compa
 ### Dataset
 For event-driven N-MNIST and N-TIDIGITS datasets, please download from [One drive](https://hkuhk-my.sharepoint.com/:f:/g/personal/linning_hku_hk/Epr0YCEKH-dLjfrwzErKlzsBU-LZRHsH0FmiOWxf6BIGJw?e=l4FeeJ).
 
-For EEG dataset, please download from [One drive](https://hkuhk-my.sharepoint.com/:f:/g/personal/linning_hku_hk/Epr0YCEKH-dLjfrwzErKlzsBU-LZRHsH0FmiOWxf6BIGJw?e=l4FeeJ).
+EEG Dataset can be download from Willett, Francis et al. (2021), Data from: High-performance brain-to-text communication via handwriting, Dryad, Dataset, https://doi.org/10.5061/dryad.wh70rxwmv
 
 For the E-MNIST, the data will be downloaded from the torch dataloader.
 
